@@ -1,0 +1,9 @@
+h1,td,h5 {
+    text-align: center;
+}
+table,tr,td {
+    border: 1px solid black;
+}
+input[type="radio"]{
+    text-align: center;
+}
