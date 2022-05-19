@@ -68,7 +68,7 @@
           Oui<input  name="Q7" value="1" type="radio" /> --
           Non<input  name="Q7" value="0" type="radio" />
         <br/>
-        <input type="submit" name="envoyer" value="Envoyer votre réponse">
+        <input type="submit" name="envoyer" value="Envoyer">
         <br/>
           <?php
           include_once "syndrome.php";
